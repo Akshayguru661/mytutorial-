@@ -1,4 +1,4 @@
 # mytutorial-
-this is my first GIT repo
-<br>
-author akshay 
+this is my first GIT repository
+
+author:- Akshay Guru
